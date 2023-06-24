@@ -3,9 +3,9 @@ package api
 import (
 	"net/http"
 
-	"github.com/EnricRG/resteduler-backend/api/mapper"
-	"github.com/EnricRG/resteduler-backend/logging"
-	"github.com/EnricRG/resteduler-backend/service"
+	"github.com/EnricRG/resteduler-backend/internal/api/mapper"
+	"github.com/EnricRG/resteduler-backend/internal/logging"
+	"github.com/EnricRG/resteduler-backend/internal/service"
 	"github.com/labstack/echo/v4"
 	log "github.com/rs/zerolog"
 )
