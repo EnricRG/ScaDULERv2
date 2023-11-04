@@ -1,4 +1,4 @@
-module github.com/EnricRG/resteduler-backend
+module github.com/EnricRG/openscheduler-backend
 
 go 1.20
 

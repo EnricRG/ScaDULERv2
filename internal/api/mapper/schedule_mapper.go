@@ -1,8 +1,8 @@
 package mapper
 
 import (
-	"github.com/EnricRG/resteduler-backend/internal/api/view"
-	"github.com/EnricRG/resteduler-backend/internal/domain"
+	"github.com/EnricRG/openscheduler-backend/internal/api/view"
+	"github.com/EnricRG/openscheduler-backend/internal/domain"
 	"github.com/life4/genesis/slices"
 )
 
